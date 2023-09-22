@@ -1,3 +1,4 @@
+// *** Membuat dan menggunakan fungsi di kotlin
 // Ini adalah fungsi untuk tambah, didalamnya terdapat variabel
 // angka1 dan 2 yang bersifat integer.
 fun tambah(angka1: Int, angka2: Int): Int {
